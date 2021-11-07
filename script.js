@@ -1,4 +1,4 @@
 function uwu(){
-    window.location.replace("https://www.youtube.com/watch?v=dQw4w9WgXcQ"); 
+    window.location.replace("https://www.instagram.com/lhsvalhalla/"); 
 }
 setTimeout(uwu, 1)
